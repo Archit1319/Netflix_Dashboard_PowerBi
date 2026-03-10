@@ -19,13 +19,6 @@ Whether you're looking for the growth of original content or the distribution of
 
 ---
 
-## 📊 Dashboard Preview
-*(Tip: Add your dashboard screenshots here for a better visual representation)*
-
-> **[Dashboard Screenshot Placeholder]**
-
----
-
 ## 🛠️ Tech Stack & Tools
 - **Visualization:** Power BI Desktop
 - **Data Source:** CSV Files
@@ -78,5 +71,4 @@ Contributions are welcome! If you have suggestions for new visuals or data metri
 ## 📜 License
 This project is for educational purposes. Data provided by community datasets (Kaggle).
 
----
-**Created with ❤️ by Antigravity**
+
